@@ -1,0 +1,18 @@
+body {
+  background-color: #f8e8a6;
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  padding: 10px;
+}
